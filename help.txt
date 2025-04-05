@@ -1,0 +1,13 @@
+Usage: node index.js <command> [options]
+Commands:
+  add <num1> <num2>   Add two numbers
+  sub <num1> <num2>   Subtract two numbers
+  mul <num1> <num2>   Multiply two numbers
+  div <num1> <num2>   Divide two numbers
+  help               Show this help message
+Examples:
+  node index.js add 1 2
+  node index.js sub 5 3
+  node index.js mul 2 3
+  node index.js div 6 2
+  node index.js help
